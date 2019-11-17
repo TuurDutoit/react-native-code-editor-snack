@@ -1,0 +1,29 @@
+{
+  "name": "rude-sandwich",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": "Tuur Dutoit <me@tuurdutoit.be>",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^7.0.0",
+    "expo-cli": "^3.4.1"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "10.0.0",
+    "diff": "4.0.1",
+    "expo": "35.0.0",
+    "expo-asset": "7.0.0",
+    "expo-constants": "7.0.0",
+    "expo-font": "7.0.0",
+    "prop-types": "15.7.2",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-native": "0.59.8",
+    "react-native-web": "0.11.7",
+    "uuidv4": "5.0.1"
+  }
+}
