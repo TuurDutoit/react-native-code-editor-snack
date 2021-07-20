@@ -22,7 +22,7 @@
     "prop-types": "15.7.2",
     "react": "16.8.3",
     "react-dom": "16.8.3",
-    "react-native": "0.59.8",
+    "react-native": "0.62.3",
     "react-native-web": "0.11.7",
     "uuidv4": "5.0.1"
   }
